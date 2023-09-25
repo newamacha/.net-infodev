@@ -1,0 +1,35 @@
+﻿@using HallManagementSystem.Database.Model
+@model Meeting
+
+<form method="post">
+    <div class="border p-3 mt-4">
+        <div class="row pb-2">
+            <h2 class="text-primary">Add Hall</h2>
+            <hr />
+        </div>
+        <div class ="mb-3">
+            <label asp-for="MeetingTopic">Meeting Topic</label>
+            <input asp-for="MeetingTopic" class="form-control" />
+            <span asp-validation-for="MeetingTopic" class="text-danger"></span>
+        </div> 
+        <div class ="mb-3">
+            <label asp-for="StartTime">Start Time</label>
+            <input asp-for="StartTime" class="form-control" />
+            <span asp-validation-for="StartTime" class="text-danger"></span>
+        </div> 
+        <div class ="mb-3">
+            <label asp-for="EndTime">End Time</label>
+            <input asp-for="EndTime" class="form-control" />
+            <span asp-validation-for="EndTime" class="text-danger"></span>
+        </div> 
+        <div class ="mb-3">
+            <label asp-for="HallId">Hall Name</label>
+            <select asp-for="HallId" asp-items="@ViewBag.TypeDropDown" class="form-control">
+            <option selected>--Select Hall--</option>
+            </select>
+            <span asp-validation-for="HallId" class="text-danger"></span>
+        </div> 
+        <button type="submit" class="btn btn-primary" style="width:150px">Create</button>
+        <a asp-controller="Meeting" asp-action="Index" class="btn btn-secondary" style="width:150px">Back To List</a>
+    </div>
+</form>

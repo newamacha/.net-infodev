@@ -1,0 +1,15 @@
+E:\Infodev Training\Infodev_Training\Infodev_Training\obj\Debug\net6.0\Infodev_Training.csproj.AssemblyReference.cache
+E:\Infodev Training\Infodev_Training\Infodev_Training\obj\Debug\net6.0\Infodev_Training.GeneratedMSBuildEditorConfig.editorconfig
+E:\Infodev Training\Infodev_Training\Infodev_Training\obj\Debug\net6.0\Infodev_Training.AssemblyInfoInputs.cache
+E:\Infodev Training\Infodev_Training\Infodev_Training\obj\Debug\net6.0\Infodev_Training.AssemblyInfo.cs
+E:\Infodev Training\Infodev_Training\Infodev_Training\obj\Debug\net6.0\Infodev_Training.csproj.CoreCompileInputs.cache
+E:\Infodev Training\Infodev_Training\Infodev_Training\bin\Debug\net6.0\Infodev_Training.exe
+E:\Infodev Training\Infodev_Training\Infodev_Training\bin\Debug\net6.0\Infodev_Training.deps.json
+E:\Infodev Training\Infodev_Training\Infodev_Training\bin\Debug\net6.0\Infodev_Training.runtimeconfig.json
+E:\Infodev Training\Infodev_Training\Infodev_Training\bin\Debug\net6.0\Infodev_Training.dll
+E:\Infodev Training\Infodev_Training\Infodev_Training\bin\Debug\net6.0\Infodev_Training.pdb
+E:\Infodev Training\Infodev_Training\Infodev_Training\obj\Debug\net6.0\Infodev_Training.dll
+E:\Infodev Training\Infodev_Training\Infodev_Training\obj\Debug\net6.0\refint\Infodev_Training.dll
+E:\Infodev Training\Infodev_Training\Infodev_Training\obj\Debug\net6.0\Infodev_Training.pdb
+E:\Infodev Training\Infodev_Training\Infodev_Training\obj\Debug\net6.0\Infodev_Training.genruntimeconfig.cache
+E:\Infodev Training\Infodev_Training\Infodev_Training\obj\Debug\net6.0\ref\Infodev_Training.dll

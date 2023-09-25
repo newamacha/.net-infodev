@@ -1,0 +1,76 @@
+﻿@using HallManagementSystem.Database.Model
+@model List<Meeting>
+
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+@*<h1>Meeting Lists</h1>*@
+
+<div class="container p-3">
+    <div class="row pt-4">
+        <div class="col-6">
+            <h2 class="text-primary">Meeting Lists</h2>
+        </div>
+        <div class="col-6 text-end" >
+           <a asp-controller="Meeting" asp-action="Add"class="btn btn-primary"><i class="bi bi-plus-circle"></i>&nbsp;  Add New Meeting
+           </a>
+        </div>
+    </div>
+    <br /><br />
+<table class="table table-bordered table-striped" style="width:100%">
+    <thead>
+        <tr>
+            <th>
+                Meeting Topic
+            </th>
+            <th>
+                Start Time
+            </th>
+            <th>
+                End Time
+            </th>
+            <th>
+                Hall Name
+            </th>
+            <th>
+                Hall Location
+            </th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var obj in Model)
+        {
+            <tr>
+                <td width="30%">
+                    @obj.MeetingTopic
+                </td>
+                <td width="10%">
+                    @obj.StartTime
+                </td>
+                <td width="10%">
+                    @obj.EndTime
+                <td width="10%">
+                    @*@obj.Hall.Name*@
+                </td>
+                <td width="10%"> 
+                    @*@obj.Hall.Location*@
+               </td>
+                <td>
+                    <div class="w-75 btn-group" role="group">
+                        <a asp-controller="Meeting" asp-action="Edit" asp-route-id="@obj.Id" class="btn btn-primary mx-2"><i class="bi bi-pencil-square"></i>Edit</a>
+                    </div>
+                </td>
+                <td>
+                    <div class="w-75 btn-group" role="group">
+                        <a asp-controller="Meeting" asp-action="Delete" asp-route-id="@obj.Id" class="btn btn-danger mx-2"><i class="bi bi-trash3-fill"></i>Delete</a>
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+</div>

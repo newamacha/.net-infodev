@@ -1,0 +1,13 @@
+E:\Infodev Training\Infodev_Training\EfCoreBasics\EntityFrameworkStart.Repo\bin\Debug\netcoreapp3.1\EntityFrameworkStart.Repo.deps.json
+E:\Infodev Training\Infodev_Training\EfCoreBasics\EntityFrameworkStart.Repo\bin\Debug\netcoreapp3.1\EntityFrameworkStart.Repo.dll
+E:\Infodev Training\Infodev_Training\EfCoreBasics\EntityFrameworkStart.Repo\bin\Debug\netcoreapp3.1\EntityFrameworkStart.Repo.pdb
+E:\Infodev Training\Infodev_Training\EfCoreBasics\EntityFrameworkStart.Repo\obj\Debug\netcoreapp3.1\EntityFrameworkStart.Repo.csproj.AssemblyReference.cache
+E:\Infodev Training\Infodev_Training\EfCoreBasics\EntityFrameworkStart.Repo\obj\Debug\netcoreapp3.1\EntityFrameworkStart.Repo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Infodev Training\Infodev_Training\EfCoreBasics\EntityFrameworkStart.Repo\obj\Debug\netcoreapp3.1\EntityFrameworkStart.Repo.AssemblyInfoInputs.cache
+E:\Infodev Training\Infodev_Training\EfCoreBasics\EntityFrameworkStart.Repo\obj\Debug\netcoreapp3.1\EntityFrameworkStart.Repo.AssemblyInfo.cs
+E:\Infodev Training\Infodev_Training\EfCoreBasics\EntityFrameworkStart.Repo\obj\Debug\netcoreapp3.1\EntityFrameworkStart.Repo.csproj.CoreCompileInputs.cache
+E:\Infodev Training\Infodev_Training\EfCoreBasics\EntityFrameworkStart.Repo\obj\Debug\netcoreapp3.1\EntityFrameworkStart.Repo.dll
+E:\Infodev Training\Infodev_Training\EfCoreBasics\EntityFrameworkStart.Repo\obj\Debug\netcoreapp3.1\EntityFrameworkStart.Repo.pdb
+E:\Infodev Training\Infodev_Training\EfCoreBasics\EntityFrameworkStart.Repo\bin\Debug\netcoreapp3.1\EntityFrameworkStart.Database.dll
+E:\Infodev Training\Infodev_Training\EfCoreBasics\EntityFrameworkStart.Repo\bin\Debug\netcoreapp3.1\EntityFrameworkStart.Database.pdb
+E:\Infodev Training\Infodev_Training\EfCoreBasics\EntityFrameworkStart.Repo\obj\Debug\netcoreapp3.1\EntityFrameworkStart.Repo.csproj.CopyComplete
